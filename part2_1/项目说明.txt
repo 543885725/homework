@@ -1,3 +1,7 @@
+总动画构建
 1.通过yarn add gulp --dev在开发黄景中安装gulp
 2.创建gulpfile.js文件
-3.
+3. 添加脚本，模版，样式编译任务。
+4. 添加图片，字体等编译任务
+5. 通过parallel，series组合任务
+6. 通过module.exports导出任务
