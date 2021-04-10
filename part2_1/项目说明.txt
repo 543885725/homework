@@ -1,0 +1,3 @@
+1.通过yarn add gulp --dev在开发黄景中安装gulp
+2.创建gulpfile.js文件
+3.
